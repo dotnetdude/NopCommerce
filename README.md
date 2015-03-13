@@ -15,3 +15,5 @@ Forums: http://www.nopcommerce.com/boards/
 Note : this is cloned version of https://nopcommerce.codeplex.com/
 
 ![alt tag](https://ci.appveyor.com/api/projects/status/spiblb82pquv0610?svg=true)
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
